@@ -1,0 +1,14 @@
+{
+  "name": "wk11-homework",
+  "version": "1.0.0",
+  "description": "Week 11 Homework for Constructors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rey Nicolas",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
